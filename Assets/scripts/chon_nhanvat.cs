@@ -114,5 +114,6 @@ public class chon_nhanvat : MonoBehaviour
 
     }
 
-
+    //fagasgasgasgdfgdfgdf
+    //    sdfsdfsfs
 }
