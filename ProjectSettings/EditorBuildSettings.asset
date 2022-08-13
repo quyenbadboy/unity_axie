@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/menu_game.unity
+    guid: e22f56eff584b264caa4a00f48db49da
+  - enabled: 1
+    path: Assets/Scenes/Chon_nhanvat.unity
+    guid: 378556c2aa357474087453119607b3ab
+  - enabled: 1
+    path: Assets/Scenes/Chon_doi_thu.unity
+    guid: f22ef933fe9541b428d7706900dbe519
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

@@ -10,6 +10,10 @@ TagManager:
   - bot
   - box_left
   - box_right
+  - khungthanh_trai
+  - khungthanh_phai
+  - nen_dat
+  - cuc_da
   layers:
   - Default
   - TransparentFX

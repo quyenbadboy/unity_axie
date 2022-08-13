@@ -1,1 +1,9 @@
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":2.829516649246216,"y":-3.389747381210327,"z":-37.39052200317383},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":11.290512084960938,"orthographic":true}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":0.5008354187011719,"y":-0.9397598505020142,"z":0.0309391338378191},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":8.49171257019043,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":343.4859924316406,"y":189.18760681152345,"z":-1.4433575868606568},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":233.115478515625,"orthographic":true}
+>>>>>>> Stashed changes
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":343.4859924316406,"y":189.18760681152345,"z":-1.4433575868606568},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":233.115478515625,"orthographic":true}
+>>>>>>> Stashed changes

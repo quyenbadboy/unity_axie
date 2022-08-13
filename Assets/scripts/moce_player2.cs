@@ -1,10 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class moce_player2 : MonoBehaviour
 {
     // Start is called before the first frame update
+    public Slider thanh_mana;
     void Start()
     {
         
@@ -26,7 +28,7 @@ public class moce_player2 : MonoBehaviour
         if (Input.GetKey(KeyCode.W))
         {
             transform.Translate(0, Time.deltaTime * 5, 0);
-            transform.localScale = new Vector3(3f, 3f, 3f);
+            //transform.localScale = new Vector3(3f, 3f, 3f);
         }
     }
 }

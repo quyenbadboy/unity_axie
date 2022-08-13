@@ -78,6 +78,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -86,9 +87,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -109,6 +110,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -509,6 +512,24 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      "rong bi\u1EC3n, san h\xF4_1": 2695415725887833002
+      "rong bi\u1EC3n, san h\xF4_5": -4079437120789408543
+      "rong bi\u1EC3n, san h\xF4_8": -1233437922707480669
+      "rong bi\u1EC3n, san h\xF4_3": -5111239348650585485
+      "rong bi\u1EC3n, san h\xF4_0": 705451584940577357
+      "rong bi\u1EC3n, san h\xF4_4": -7594645124406370790
+      "rong bi\u1EC3n, san h\xF4_10": -1749462514730564959
+      "rong bi\u1EC3n, san h\xF4_11": 8927427444177447696
+      "rong bi\u1EC3n, san h\xF4_16": -2532296793064986578
+      "rong bi\u1EC3n, san h\xF4_17": -6384942932518751697
+      "rong bi\u1EC3n, san h\xF4_6": 4997887361279332426
+      "rong bi\u1EC3n, san h\xF4_14": -5889038882048280477
+      "rong bi\u1EC3n, san h\xF4_2": -3080440404618233715
+      "rong bi\u1EC3n, san h\xF4_15": -6871280414536440702
+      "rong bi\u1EC3n, san h\xF4_9": 7463552074640521927
+      "rong bi\u1EC3n, san h\xF4_13": -6191149150380831930
+      "rong bi\u1EC3n, san h\xF4_12": -2431013289259184603
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -35,9 +35,9 @@ public class timecoutdowm : MonoBehaviour
     void updatetime(float curenttime) {
         curenttime += 1;
 
-        float minutes = Mathf.FloorToInt(curenttime / 60);
-        float seconds = Mathf.FloorToInt(curenttime % 60);
+        //float minutes = Mathf.FloorToInt(curenttime / 60);
+        float seconds = Mathf.FloorToInt(curenttime % 120);
 
-        txttime.text = string.Format("{0:00} : {1:00}",minutes,seconds);
+        txttime.text = string.Format("{00:00}",seconds);
     }
 }
